@@ -4,11 +4,11 @@ Also prints all possible substring
 
 
 ### Sample Input:
-Size of each array:--
+Size of each array:
 
-8--
+8
 
-6--
+6
 
 Array 1 values: 
 1 2 3 4 7 5 8 9
