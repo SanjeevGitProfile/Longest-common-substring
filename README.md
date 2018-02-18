@@ -11,13 +11,18 @@ Size of each array:
 6
 
 Array 1 values: 
+
 1 2 3 4 7 5 8 9
 
 Array 2 values: 
+
 1 2 4 5 7 8
 
 ### Sample Output:
 Length of LCS: 5
+
 Possible values: 
+
 1 2 4 7 8 
+
 1 2 4 5 8 
