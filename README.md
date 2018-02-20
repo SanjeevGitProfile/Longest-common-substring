@@ -34,3 +34,6 @@ As usual construct Dynamic programing table with the 2 set of arrays.
   * choose the maximum of the adjacent (left | top) element
 
 The entry at the N x M of the DP table will give the length of the longest common substring.
+
+The dynamic programing table for the sample input will look like,
+
