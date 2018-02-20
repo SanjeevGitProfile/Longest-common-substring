@@ -29,7 +29,7 @@ Possible values:
 
 ### Calculations:
 As usual construct Dynamic programing table with the 2 set of arrays.
-* Assign new values in the table by
+1. Assign new values in the table by
 * adding 1 to the diagonal if both character of the array match, else
 * choose the maximum of the adjacent (left | top) element
 
