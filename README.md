@@ -37,7 +37,7 @@ The entry at the N x M of the DP table will give the length of the longest commo
 
 The dynamic programing table for the sample input will look like,
 
-|     |**0  |  1  |  2  |  3  |  4  |  7  |  5  |  8  |  9**|
+|     |  0  |  1  |  2  |  3  |  4  |  7  |  5  |  8  |  9  |
 |-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**0**|  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |
 |**1**|  0  |  1  |  1  |  1  |  1  |  1  |  1  |  1  |  1  |
