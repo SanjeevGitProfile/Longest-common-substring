@@ -53,6 +53,6 @@ The fuction *printallLCS()* will print all possible subsequence using the dp tab
   * Move to its left upper diagonal cell if the elemets corresponding to the cell are same
   * Else choose the cell which has the greater value (either left or top cell) 
    * if both values are equal then traverse both sides one by one recursively
-   
- The travelsal will look like as below:
+
+The travelsal will look like as below:
  
