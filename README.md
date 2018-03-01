@@ -46,3 +46,13 @@ The dynamic programing table for the sample input will look like,
 |**5**|  0  |  1  |  2  |  2  |  3  |  3  |  4  |  4  |  4  |
 |**7**|  0  |  1  |  2  |  2  |  3  |  4  |  4  |  4  |  4  |
 |**8**|  0  |  1  |  2  |  2  |  3  |  4  |  4  |  5  |  5  |
+
+The fuction *printallLCS()* will print all possible subsequence using the dp table in the same logic we derived the values in the table.
+
+* Start traversing from the cell[n][m] of the DP table
+  * Move to its left upper diagonal cell if the elemets corresponding to the cell are same
+  * Else choose the cell which has the greater value (either left or top cell) 
+   * if both values are equal then traverse both sides one by one recursively
+   
+ The travelsal will look like as below:
+ 
