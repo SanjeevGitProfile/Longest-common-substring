@@ -54,5 +54,8 @@ The fuction *printallLCS()* will print all possible subsequence using the dp tab
   * Else choose the cell which has the greater value (either left or top cell)
     * if both values are equal then traverse both sides one by one recursively
 
-The travelsal will look like as below:
+The traversal will look like as below:
+
+https://user-images.githubusercontent.com/16428435/36858162-6dea2f76-1da0-11e8-9837-0396239233ba.jpg
+
  
