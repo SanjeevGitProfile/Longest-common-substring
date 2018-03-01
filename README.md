@@ -57,3 +57,9 @@ The fuction *printallLCS()* will print all possible subsequence using the dp tab
 The traversal will look like as below:
 
 ![dp_table_decode](https://user-images.githubusercontent.com/16428435/36858162-6dea2f76-1da0-11e8-9837-0396239233ba.jpg)
+
+So possible solutions: 
+
+1 2 4 7 8 
+
+1 2 4 5 8 
